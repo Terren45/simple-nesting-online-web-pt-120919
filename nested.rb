@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-   array = programmer_hash[:dennis_ritchie][:C]
+   
 end
 
 def changing_alan
